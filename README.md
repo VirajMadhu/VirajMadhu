@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project called Cita.<br>👯 I’m looking to collaborate on Laravel PHP-based projects.<br>🌱 I’m currently learning the MERN tech stack and Next.js.<br>💬 Ask me about PHP Laravel, Vue.js, MySQL, React, and Node.js.<br>⚡ Fun fact: I love diving deep into full-stack development!
+🔭 I’m currently working on several full time projects.<br>👯 I’m looking to collaborate on Laravel PHP-based projects.<br>🌱 I’m currently learning the MERN tech stack and Next.js.<br>💬 Ask me about PHP Laravel, Vue.js, MySQL, React, and Node.js.<br>⚡ Fun fact: I love diving deep into full-stack development!
 
 
 ## 🌐 Socials:
